@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("ImageLabel")
 local Invisible = Instance.new("TextButton")
@@ -12,8 +7,6 @@ local TextLabel_Roundify_12px = Instance.new("ImageLabel")
 local TextLabel_2 = Instance.new("TextLabel")
 local Visibleai = Instance.new("TextButton")
 local Collide = Instance.new("TextButton")
-
---Properties:
 
 ScreenGui.Parent = game.CoreGui
 
